@@ -1,0 +1,10 @@
+<map id="stereocam::inference::DepthInferenceBase" name="stereocam::inference::DepthInferenceBase">
+<area shape="rect" id="node1" title="Pipeline&#45;facing abstract base for a neural depth network." alt="" coords="204,136,367,177"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1inference_1_1NeuralInferenceBase.html" title="Shared partial implementation of DepthInferenceBase." alt="" coords="415,136,581,177"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="5,136,156,177"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1inference_1_1CREStereoCombinedInferenceCpp.html" title="CREStereo combined stereo with 4 inputs (full + half&#45;resolution pairs)." alt="" coords="637,5,888,47"/>
+<area shape="rect" id="node5" href="$classstereocam_1_1inference_1_1CREStereoInitialInferenceCpp.html" title="CREStereo single&#45;pass stereo (raw 0&#45;255 input, disparity = output ch 0)." alt="" coords="652,71,873,112"/>
+<area shape="rect" id="node6" href="$classstereocam_1_1inference_1_1DepthAnythingV2SmallInferenceCpp.html" title="Mono relative&#45;depth network with a user&#45;tunable affine post&#45;scale." alt="" coords="629,136,896,177"/>
+<area shape="rect" id="node7" href="$classstereocam_1_1inference_1_1LightStereoInferenceCpp.html" title="Fast stereo network with ImageNet normalization; output squeezed to 2D." alt="" coords="667,201,858,243"/>
+<area shape="rect" id="node8" href="$classstereocam_1_1inference_1_1Metric3DV2VitSmallInferenceCpp.html" title="Mono metric&#45;depth network with CSTM canonical&#45;focal depth recovery." alt="" coords="639,267,886,308"/>
+</map>

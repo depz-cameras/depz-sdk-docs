@@ -1,0 +1,4 @@
+<map id="include/depz/camera/icamera_identity.h" name="include/depz/camera/icamera_identity.h">
+<area shape="rect" id="node1" title="Abstract DEPZ&#45;camera enumeration interface." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node2" href="$linux__v4l2__identity__adapter_8h.html" title="V4L2 + sysfs camera enumeration on Linux." alt="" coords="5,95,163,151"/>
+</map>

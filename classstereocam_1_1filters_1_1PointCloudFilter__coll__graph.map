@@ -1,0 +1,5 @@
+<map id="stereocam::filters::PointCloudFilter" name="stereocam::filters::PointCloudFilter">
+<area shape="rect" id="node1" title="Marker base for filters that consume the organized 3&#45;D point cloud." alt="" coords="13,184,149,225"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1filters_1_1IFilter.html" title="Stage&#45;agnostic filter base class." alt="" coords="13,95,149,136"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="5,5,156,47"/>
+</map>

@@ -1,0 +1,37 @@
+var group__cabi__pipeline =
+[
+    [ "depz_pipeline_config", "structdepz__pipeline__config.html", [
+      [ "enable_cloud", "structdepz__pipeline__config.html#a6f461f4f5e73e4f061470354e4690bb5", null ],
+      [ "enable_depth", "structdepz__pipeline__config.html#a63903682c356a8afeeaa45eca10572be", null ],
+      [ "enable_disparity", "structdepz__pipeline__config.html#ae36f6a65f15b798380a1731293655397", null ],
+      [ "enable_raw", "structdepz__pipeline__config.html#a5afcac7a031ed4b47dc1184f90b72b65", null ],
+      [ "enable_rectified", "structdepz__pipeline__config.html#afb282583f9131a2f4f6c6d47d2a2c59f", null ],
+      [ "max_queue", "structdepz__pipeline__config.html#aa4384e1ddd7efa4b0412e093727ca977", null ],
+      [ "pipeline_depth", "structdepz__pipeline__config.html#a4a5c85f356b35e8e2eeb481c3cadbf9a", null ]
+    ] ],
+    [ "depz_pipeline_config", "group__cabi__pipeline.html#ga1968237a546d60cd1757244997ea1538", null ],
+    [ "depz_pipeline_config_default", "group__cabi__pipeline.html#ga57175d44573ccf258776295adee8b771", null ],
+    [ "depz_pipeline_create", "group__cabi__pipeline.html#gaf75d19f95ca36119f8b7d247c6be3afd", null ],
+    [ "depz_pipeline_destroy", "group__cabi__pipeline.html#ga767bdec1a9f2cfcb8d689e5ce59d3613", null ],
+    [ "depz_pipeline_frame_count", "group__cabi__pipeline.html#gaf2d1ef6e8664ae9281ead4795db2f61d", null ],
+    [ "depz_pipeline_get", "group__cabi__pipeline.html#ga0e5553b15ddafd06b1c9088eb2d30d2d", null ],
+    [ "depz_pipeline_is_pausable", "group__cabi__pipeline.html#ga8771fb0c1e04b7768cd51cb07a69c4d2", null ],
+    [ "depz_pipeline_is_paused", "group__cabi__pipeline.html#ga1cc95df3030d3a3a161849073f154fe0", null ],
+    [ "depz_pipeline_is_running", "group__cabi__pipeline.html#ga8f82893563575e0ebcdf10a9ef0705f2", null ],
+    [ "depz_pipeline_opened_fps", "group__cabi__pipeline.html#ga6b93d2ec972ba848ed48fa2bc1e5b71e", null ],
+    [ "depz_pipeline_opened_height", "group__cabi__pipeline.html#gac7b21232889540662e9eb71edf60c0bb", null ],
+    [ "depz_pipeline_opened_width", "group__cabi__pipeline.html#ga9c644287a455337dec80a5dcd8cd1d7d", null ],
+    [ "depz_pipeline_pause", "group__cabi__pipeline.html#ga3cc1a0ffb99275e130702743b72f1088", null ],
+    [ "depz_pipeline_reset_filters", "group__cabi__pipeline.html#ga5a2b04ad86471d40af2903c067def68e", null ],
+    [ "depz_pipeline_resume", "group__cabi__pipeline.html#ga047d828a8b46a01ea50091cfee8fcb2c", null ],
+    [ "depz_pipeline_seek", "group__cabi__pipeline.html#gad6effaf874adf20e15e32615c4364b10", null ],
+    [ "depz_pipeline_set_filter_param_b", "group__cabi__pipeline.html#ga29679e8c8216fd2e908809fdf9671220", null ],
+    [ "depz_pipeline_set_filter_param_f", "group__cabi__pipeline.html#gaac1b89570af6096962ff4af52ed3800d", null ],
+    [ "depz_pipeline_set_filter_param_i", "group__cabi__pipeline.html#ga16c96aea56997aa70c47d76af538fdfc", null ],
+    [ "depz_pipeline_set_pipeline_setting_s", "group__cabi__pipeline.html#ga8b36bb9dbe63ad2458f9c5422d7c7c99", null ],
+    [ "depz_pipeline_set_stream_enabled", "group__cabi__pipeline.html#ga0251c73cbef956cf16b4eb091d34f11f", null ],
+    [ "depz_pipeline_set_stream_enabled_graph", "group__cabi__pipeline.html#ga095af8cbfb2789a6ba7387f3045d9449", null ],
+    [ "depz_pipeline_start", "group__cabi__pipeline.html#gaf73131752aa6a53b0aae902dccf45df6", null ],
+    [ "depz_pipeline_step", "group__cabi__pipeline.html#ga4300b19594faf8cc29ddab213257452e", null ],
+    [ "depz_pipeline_stop", "group__cabi__pipeline.html#ga86f5c0c3987f07db3601948c16b4a8fb", null ]
+];

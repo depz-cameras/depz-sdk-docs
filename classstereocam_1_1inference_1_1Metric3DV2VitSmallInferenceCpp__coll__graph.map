@@ -1,0 +1,6 @@
+<map id="stereocam::inference::Metric3DV2VitSmallInferenceCpp" name="stereocam::inference::Metric3DV2VitSmallInferenceCpp">
+<area shape="rect" id="node1" title="Mono metric&#45;depth network with CSTM canonical&#45;focal depth recovery." alt="" coords="5,273,252,315"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1inference_1_1NeuralInferenceBase.html" title="Shared partial implementation of DepthInferenceBase." alt="" coords="45,184,212,225"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1inference_1_1DepthInferenceBase.html" title="Pipeline&#45;facing abstract base for a neural depth network." alt="" coords="47,95,210,136"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="53,5,204,47"/>
+</map>

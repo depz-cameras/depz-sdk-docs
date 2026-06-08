@@ -1,0 +1,17 @@
+<map id="include/depz/core/pipeline/idepth_calibration.h" name="include/depz/core/pipeline/idepth_calibration.h">
+<area shape="rect" id="node1" title="Calibration interface the DepthPipeline worker loop depends on." alt="" coords="603,5,795,47"/>
+<area shape="rect" id="node2" href="$ineural__inference_8h.html" title="Architecture&#45;agnostic orchestration interface for neural depth networks." alt="" coords="511,184,661,225"/>
+<area shape="rect" id="node13" title=" " alt="" coords="692,281,829,307"/>
+<area shape="rect" id="node15" href="$frame__processor_8h.html" title="Single&#45;call per&#45;frame postprocess chain (disparity→depth→cloud)." alt="" coords="737,95,883,136"/>
+<area shape="rect" id="node3" href="$icontrol__owner_8h.html" title=" " alt="" coords="201,273,363,315"/>
+<area shape="rect" id="node8" title=" " alt="" coords="454,541,513,568"/>
+<area shape="rect" id="node9" title=" " alt="" coords="5,459,65,486"/>
+<area shape="rect" id="node10" title=" " alt="" coords="379,459,441,486"/>
+<area shape="rect" id="node11" href="$iinference__engine_8h.html" title="Backend&#45;agnostic ML inference engine interface (Adapter pattern)." alt="" coords="439,363,648,404"/>
+<area shape="rect" id="node14" title=" " alt="" coords="854,281,931,307"/>
+<area shape="rect" id="node4" href="$param__spec_8h.html" title=" " alt="" coords="132,370,312,397"/>
+<area shape="rect" id="node5" href="$iparameter__store_8h.html" title="Type&#45;erased key/value parameter store interface." alt="" coords="141,452,303,493"/>
+<area shape="rect" id="node7" title=" " alt="" coords="94,541,169,568"/>
+<area shape="rect" id="node6" title=" " alt="" coords="205,541,271,568"/>
+<area shape="rect" id="node12" title=" " alt="" coords="517,459,588,486"/>
+</map>

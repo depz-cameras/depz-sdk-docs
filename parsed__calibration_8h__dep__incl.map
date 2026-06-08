@@ -1,0 +1,6 @@
+<map id="include/depz/core/calibration/parsed_calibration.h" name="include/depz/core/calibration/parsed_calibration.h">
+<area shape="rect" id="node1" title="Nanobind&#45;free POD structs holding parsed calibration scalars." alt="" coords="239,5,448,47"/>
+<area shape="rect" id="node2" href="$opencv__basic_8h.html" title="Concrete Calibration for the OpenCV5 / OpenCV8 pinhole lens model." alt="" coords="5,95,215,136"/>
+<area shape="rect" id="node3" href="$opencv__depth__calibration_8h.html" title="IDepthCalibration for the pinhole stereo model, backed by StereoCalibration." alt="" coords="239,95,448,136"/>
+<area shape="rect" id="node4" href="$opencv__fisheye_8h.html" title="Kannala–Brandt fisheye Calibration with lon/lat (ERP) rectified depth." alt="" coords="472,95,681,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="stereocam::FrameSource" name="stereocam::FrameSource">
+<area shape="rect" id="node1" title="Abstract interface for any synchronous frame source." alt="" coords="21,5,205,32"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1IGStreamerFrameSource.html" title="Adapter: IGStreamerCamera → FrameSource." alt="" coords="5,80,220,121"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="include/depz/stereo/camera_calibration_web_loader.h" name="include/depz/stereo/camera_calibration_web_loader.h">
+<area shape="rect" id="node1" title="Download stereo calibration JSON by camera serial and parse it into StereoCalibration." alt="" coords="5,5,156,61"/>
+<area shape="rect" id="node2" href="$depz_8h.html" title="Single umbrella header that pulls in the whole iStereoLab public API." alt="" coords="5,109,156,136"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="include/depz/core/recorder/imkv_recorder.h" name="include/depz/core/recorder/imkv_recorder.h">
+<area shape="rect" id="node1" title="Abstract Matroska/MKV writer for recording camera streams." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$libav__recorder__adapter_8h.html" title="libavformat MKV multiplexer behind the IMkvRecorder interface — the recording tap the worker writes r..." alt="" coords="5,95,200,136"/>
+</map>

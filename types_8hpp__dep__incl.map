@@ -1,0 +1,5 @@
+<map id="include/depz/types.hpp" name="include/depz/types.hpp">
+<area shape="rect" id="node1" title="Core SDK&#45;wide data structures and enumerations." alt="" coords="5,5,177,32"/>
+<area shape="rect" id="node2" href="$depz_8h.html" title="Single umbrella header that pulls in the whole iStereoLab public API." alt="" coords="16,169,167,196"/>
+<area shape="rect" id="node3" href="$depth__utils_8h.html" title="Disparity&#45;to&#45;depth and point&#45;cloud conversion utilities." alt="" coords="73,80,222,121"/>
+</map>

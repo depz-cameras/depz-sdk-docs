@@ -1,0 +1,6 @@
+<map id="include/depz/math/mat4.hpp" name="include/depz/math/mat4.hpp">
+<area shape="rect" id="node1" title="4×4 single&#45;precision floating&#45;point matrix." alt="" coords="5,5,213,32"/>
+<area shape="rect" id="node2" href="$depz_8h.html" title="Single umbrella header that pulls in the whole iStereoLab public API." alt="" coords="23,244,174,271"/>
+<area shape="rect" id="node3" href="$types_8hpp.html" title="Core SDK&#45;wide data structures and enumerations." alt="" coords="86,80,258,107"/>
+<area shape="rect" id="node4" href="$depth__utils_8h.html" title="Disparity&#45;to&#45;depth and point&#45;cloud conversion utilities." alt="" coords="136,155,285,196"/>
+</map>

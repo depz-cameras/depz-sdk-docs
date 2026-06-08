@@ -1,0 +1,9 @@
+<map id="include/depz/core/inference/ineural_inference.h" name="include/depz/core/inference/ineural_inference.h">
+<area shape="rect" id="node1" title="Architecture&#45;agnostic orchestration interface for neural depth networks." alt="" coords="369,5,571,47"/>
+<area shape="rect" id="node2" href="$inference__factory_8h.html" title="Single factory turning (arch slug, model file, engine slug) into a ready DepthInferenceBase." alt="" coords="5,95,207,136"/>
+<area shape="rect" id="node3" href="$neural__architectures_8h.html" title="Per&#45;network preprocess/postprocess recipes for the SDK&#39;s depth models." alt="" coords="231,95,432,136"/>
+<area shape="rect" id="node4" href="$depth__pipeline_8h.html" title=" " alt="" coords="399,273,591,315"/>
+<area shape="rect" id="node5" href="$frame__processor_8h.html" title="Single&#45;call per&#45;frame postprocess chain (disparity→depth→cloud)." alt="" coords="507,95,699,136"/>
+<area shape="rect" id="node6" href="$idepth__calibration_8h.html" title="Calibration interface the DepthPipeline worker loop depends on." alt="" coords="607,184,799,225"/>
+<area shape="rect" id="node7" href="$opencv__depth__calibration_8h.html" title="IDepthCalibration for the pinhole stereo model, backed by StereoCalibration." alt="" coords="616,273,825,315"/>
+</map>

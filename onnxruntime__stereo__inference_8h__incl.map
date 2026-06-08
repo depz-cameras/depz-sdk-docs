@@ -1,0 +1,10 @@
+<map id="include/depz/stereo/onnxruntime_stereo_inference.h" name="include/depz/stereo/onnxruntime_stereo_inference.h">
+<area shape="rect" id="node1" title="ONNX Runtime implementation of the legacy IStereoInference 2&#45;input API." alt="" coords="365,5,523,61"/>
+<area shape="rect" id="node2" href="$istereo__inference_8h.html" title=" " alt="" coords="135,109,281,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="276,184,353,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="357,109,531,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="555,109,618,136"/>
+<area shape="rect" id="node8" title=" " alt="" coords="643,109,699,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,184,160,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="184,184,243,211"/>
+</map>

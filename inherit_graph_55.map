@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classIDepthFilter.html" title="Pure&#45;virtual interface for a single&#45;stage depth / disparity filter." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="node2" href="$classAdaptiveTemporalFilterV2.html" title="Adaptive Exponential Moving Average (EMA) filter for depth map stabilisation." alt="" coords="168,5,359,32"/>
+<area shape="rect" id="node3" href="$classAdaptiveTemporalKalmanFilter.html" title="Per&#45;pixel adaptive Kalman filter for depth / disparity map stabilisation." alt="" coords="152,56,375,83"/>
+</map>

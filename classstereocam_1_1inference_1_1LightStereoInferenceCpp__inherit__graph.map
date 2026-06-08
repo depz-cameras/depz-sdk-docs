@@ -1,0 +1,6 @@
+<map id="stereocam::inference::LightStereoInferenceCpp" name="stereocam::inference::LightStereoInferenceCpp">
+<area shape="rect" id="node1" title="Fast stereo network with ImageNet normalization; output squeezed to 2D." alt="" coords="5,273,196,315"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1inference_1_1NeuralInferenceBase.html" title="Shared partial implementation of DepthInferenceBase." alt="" coords="17,184,184,225"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1inference_1_1DepthInferenceBase.html" title="Pipeline&#45;facing abstract base for a neural depth network." alt="" coords="19,95,182,136"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="25,5,176,47"/>
+</map>

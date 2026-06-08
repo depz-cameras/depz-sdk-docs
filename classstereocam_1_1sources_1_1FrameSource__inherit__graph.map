@@ -1,0 +1,5 @@
+<map id="stereocam::sources::FrameSource" name="stereocam::sources::FrameSource">
+<area shape="rect" id="node1" title="Raw&#45;frame producer behind the DepthPipeline worker loop." alt="" coords="5,39,155,80"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1sources_1_1GStreamerFrameSourceAdapter.html" title="Live V4L2/GStreamer camera presented as a FrameSource." alt="" coords="203,5,439,47"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1sources_1_1MkvFrameSourceAdapter.html" title="Seekable replay FrameSource over a recorded .mkv (libav demuxer)." alt="" coords="223,71,418,112"/>
+</map>

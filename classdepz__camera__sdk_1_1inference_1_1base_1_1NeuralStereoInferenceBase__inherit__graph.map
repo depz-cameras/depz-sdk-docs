@@ -1,0 +1,8 @@
+<map id="depz_camera_sdk.inference.base.NeuralStereoInferenceBase" name="depz_camera_sdk.inference.base.NeuralStereoInferenceBase">
+<area shape="rect" id="node1" title=" " alt="" coords="27,273,269,315"/>
+<area shape="rect" id="node6" href="$classdepz__camera__sdk_1_1inference_1_1native__runtime_1_1NativeStereoInferenceRuntime.html" title=" " alt="" coords="5,363,291,404"/>
+<area shape="rect" id="node2" href="$classdepz__camera__sdk_1_1inference_1_1base_1_1NeuralInferenceBase.html" title=" " alt="" coords="27,184,269,225"/>
+<area shape="rect" id="node3" href="$classdepz__camera__sdk_1_1inference_1_1base_1_1DepthInferenceBase.html" title=" " alt="" coords="27,95,269,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="47,13,97,39"/>
+<area shape="rect" id="node5" href="$classdepz__camera__sdk_1_1__controls_1_1ControlOwner.html" title=" " alt="" coords="121,5,327,47"/>
+</map>

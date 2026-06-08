@@ -1,0 +1,4 @@
+<map id="stereocam::recorder::IMkvRecorder" name="stereocam::recorder::IMkvRecorder">
+<area shape="rect" id="node1" title="Writes an MJPG video stream plus metadata streams and attachments into a Matroska container." alt="" coords="16,5,169,47"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1recorder_1_1LibavRecorderAdapter.html" title="libavformat&#45;backed IMkvRecorder: muxes MJPG video + metadata streams into an .mkv." alt="" coords="5,95,180,136"/>
+</map>

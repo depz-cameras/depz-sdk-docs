@@ -1,0 +1,4 @@
+<map id="stereocam::PointXYZRGB" name="stereocam::PointXYZRGB">
+<area shape="rect" id="node1" title="3&#45;D point with XYZ coordinates and RGB colour." alt="" coords="5,109,192,136"/>
+<area shape="rect" id="node2" href="$structstereocam_1_1math_1_1Vec3.html" title="Immutable&#45;style 3&#45;D vector of float components ." alt="" coords="13,5,185,32"/>
+</map>

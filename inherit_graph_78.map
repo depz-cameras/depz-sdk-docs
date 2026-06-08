@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classstereocam_1_1IParameterStore.html" title="Abstract string&#45;keyed store of heterogeneous parameter values." alt="" coords="5,46,209,73"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1IStereoCalibrationModel.html" title="Interface that represents stereo calibration data + rectification behavior." alt="" coords="257,5,473,47"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1StereoCalibrationParameterStore.html" title="IParameterStore view over a StereoCalibration." alt="" coords="259,71,471,112"/>
+<area shape="rect" id="node3" href="$classStereoCalibration.html" title="Stereo calibration: load from JSON, rectify images, expose matrices." alt="" coords="521,13,656,39"/>
+</map>

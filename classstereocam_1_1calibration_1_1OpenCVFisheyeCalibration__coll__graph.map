@@ -1,0 +1,5 @@
+<map id="stereocam::calibration::OpenCVFisheyeCalibration" name="stereocam::calibration::OpenCVFisheyeCalibration">
+<area shape="rect" id="node1" title="Stereo Kannala–Brandt fisheye calibration with lon/lat (ERP) rectification." alt="" coords="5,184,208,225"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1calibration_1_1Calibration.html" title="Stereo / mono calibration runtime contract." alt="" coords="23,95,191,136"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="31,5,182,47"/>
+</map>

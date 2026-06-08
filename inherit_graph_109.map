@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classstereocam_1_1recorder_1_1IMkvRecorder.html" title="Writes an MJPG video stream plus metadata streams and attachments into a Matroska container." alt="" coords="5,5,159,47"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1recorder_1_1LibavRecorderAdapter.html" title="libavformat&#45;backed IMkvRecorder: muxes MJPG video + metadata streams into an .mkv." alt="" coords="207,5,381,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classstereocam_1_1recorder_1_1IMkvSource.html" title="Demuxes a recorded MJPG stream plus its metadata streams and attachments back out of a Matroska conta..." alt="" coords="5,5,159,47"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1recorder_1_1LibavMkvSourceAdapter.html" title="libavformat&#45;backed IMkvSource: random&#45;access MJPG replay with pre&#45;scanned metadata." alt="" coords="207,5,395,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="stereocam::engines::InferenceEngine" name="stereocam::engines::InferenceEngine">
+<area shape="rect" id="node1" title="Abstract single&#45;shot inference engine over a loaded model." alt="" coords="5,71,156,112"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1engines_1_1OnnxEngineAdapter.html" title="ONNX Runtime&#45;backed InferenceEngine." alt="" coords="221,5,379,47"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1engines_1_1OpenVINOEngineAdapter.html" title="OpenVINO&#45;backed InferenceEngine with an InferRequest pool." alt="" coords="204,71,396,112"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1engines_1_1TensorRTEngineAdapter.html" title="TensorRT&#45;backed InferenceEngine over a pre&#45;compiled engine file." alt="" coords="209,136,391,177"/>
+</map>

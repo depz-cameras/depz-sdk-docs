@@ -1,0 +1,4 @@
+<map id="stereocam::sources::GStreamerFrameSourceAdapter" name="stereocam::sources::GStreamerFrameSourceAdapter">
+<area shape="rect" id="node1" title="Live V4L2/GStreamer camera presented as a FrameSource." alt="" coords="5,95,241,136"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1sources_1_1FrameSource.html" title="Raw&#45;frame producer behind the DepthPipeline worker loop." alt="" coords="49,5,198,47"/>
+</map>

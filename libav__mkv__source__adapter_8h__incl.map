@@ -1,0 +1,11 @@
+<map id="include/depz/core/recorder/libav_mkv_source_adapter.h" name="include/depz/core/recorder/libav_mkv_source_adapter.h">
+<area shape="rect" id="node1" title="libavformat demuxer behind the IMkvSource interface — the seekable replay head of the worker pipeline..." alt="" coords="289,5,501,47"/>
+<area shape="rect" id="node2" href="$imkv__source_8h.html" title="Abstract Matroska/MKV reader — the replay sibling of IMkvRecorder." alt="" coords="214,95,357,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,273,72,300"/>
+<area shape="rect" id="node7" title=" " alt="" coords="303,273,361,300"/>
+<area shape="rect" id="node8" title=" " alt="" coords="354,191,417,218"/>
+<area shape="rect" id="node9" title=" " alt="" coords="492,102,543,129"/>
+<area shape="rect" id="node3" href="$iframe__source_8h.html" title="Abstract interface for raw frame sources feeding the DepthPipeline." alt="" coords="92,184,279,225"/>
+<area shape="rect" id="node4" title=" " alt="" coords="207,273,278,300"/>
+<area shape="rect" id="node6" title=" " alt="" coords="97,273,183,300"/>
+</map>

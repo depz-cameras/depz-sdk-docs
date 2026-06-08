@@ -1,0 +1,4 @@
+<map id="Pipeline (lifecycle &amp; control)" name="Pipeline (lifecycle &amp; control)">
+<area shape="rect" id="node1" href="$group__c__abi.html" title="The language&#45;agnostic C interface (depz_c_api.h) — one function per SDK operation,..." alt="" coords="5,13,92,38"/>
+<area shape="rect" id="node2" title="Create/start/stop a DepthPipeline, pull frames, and tune it at runtime." alt="" coords="140,5,279,45"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="include/depz/camera/depz_specs.h" name="include/depz/camera/depz_specs.h">
+<area shape="rect" id="node1" title=" " alt="" coords="469,5,626,47"/>
+<area shape="rect" id="node2" href="$camera__spec_8h.html" title=" " alt="" coords="333,95,492,136"/>
+<area shape="rect" id="node9" title=" " alt="" coords="620,370,683,397"/>
+<area shape="rect" id="node3" href="$camera__control_8h.html" title=" " alt="" coords="333,184,492,225"/>
+<area shape="rect" id="node7" title=" " alt="" coords="130,452,189,479"/>
+<area shape="rect" id="node10" href="$capture__mode_8h.html" title="CaptureMode POD describing one camera resolution/format/rate." alt="" coords="29,273,188,315"/>
+<area shape="rect" id="node4" href="$param__spec_8h.html" title=" " alt="" coords="323,281,503,307"/>
+<area shape="rect" id="node6" title=" " alt="" coords="494,452,569,479"/>
+<area shape="rect" id="node5" href="$iparameter__store_8h.html" title="Type&#45;erased key/value parameter store interface." alt="" coords="332,363,493,404"/>
+<area shape="rect" id="node8" title=" " alt="" coords="248,370,308,397"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Inference engines" name="Inference engines">
+<area shape="rect" id="node1" href="$group__c__abi.html" title="The language&#45;agnostic C interface (depz_c_api.h) — one function per SDK operation,..." alt="" coords="5,5,92,31"/>
+<area shape="rect" id="node2" title="Construct neural inference handles from an architecture + model + engine slug." alt="" coords="140,5,279,31"/>
+</map>

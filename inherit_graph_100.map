@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classstereocam_1_1pipeline_1_1IDepthCalibration.html" title="Produces the rectification maps and scalars for the depth pipeline." alt="" coords="5,5,156,47"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1calibration_1_1OpenCVDepthCalibration.html" title="Pinhole stereo IDepthCalibration: rectify a raw pair onto the inference canvas." alt="" coords="204,5,396,47"/>
+</map>

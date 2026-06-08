@@ -1,0 +1,6 @@
+<map id="stereocam::filters::StatisticalOutlierFilterCpp" name="stereocam::filters::StatisticalOutlierFilterCpp">
+<area shape="rect" id="node1" title="Removes statistical outlier points from the organized cloud (organized&#45;cloud stage)." alt="" coords="5,273,203,315"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1filters_1_1PointCloudFilter.html" title="Marker base for filters that consume the organized 3&#45;D point cloud." alt="" coords="36,184,172,225"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1filters_1_1IFilter.html" title="Stage&#45;agnostic filter base class." alt="" coords="36,95,172,136"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="29,5,179,47"/>
+</map>

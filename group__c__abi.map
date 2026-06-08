@@ -1,0 +1,13 @@
+<map id="Flat C ABI" name="Flat C ABI">
+<area shape="rect" id="node1" href="$group__cabi__types.html" title="Enums, the pixel&#45;buffer view, opaque handle typedefs, version and error queries." alt="" coords="153,5,320,45"/>
+<area shape="rect" id="node2" href="$group__cabi__calibration.html" title="Build calibrations (JSON / web), introspect them, and rectify standalone." alt="" coords="190,70,283,95"/>
+<area shape="rect" id="node3" title="The language&#45;agnostic C interface (depz_c_api.h) — one function per SDK operation,..." alt="" coords="5,243,92,269"/>
+<area shape="rect" id="node4" href="$group__cabi__controls.html" title="Enumerate the tunable controls exposed by built&#45;in filters." alt="" coords="140,119,333,145"/>
+<area shape="rect" id="node5" href="$group__cabi__recorder.html" title="Mux raw encoded frames into a replayable Matroska .mkv." alt="" coords="181,169,292,194"/>
+<area shape="rect" id="node6" href="$group__cabi__inference.html" title="Construct neural inference handles from an architecture + model + engine slug." alt="" coords="167,218,306,243"/>
+<area shape="rect" id="node7" href="$group__cabi__sources.html" title="Create frame sources (camera / mkv / gst pipeline) and grab raw frames directly." alt="" coords="178,267,295,293"/>
+<area shape="rect" id="node8" href="$group__cabi__pipeline.html" title="Create/start/stop a DepthPipeline, pull frames, and tune it at runtime." alt="" coords="167,317,306,357"/>
+<area shape="rect" id="node9" href="$group__cabi__metrics.html" title="Snapshot per&#45;stage latency percentiles and frame&#45;rate counters." alt="" coords="171,382,302,407"/>
+<area shape="rect" id="node10" href="$group__cabi__frame.html" title="Read a produced frame&#39;s streams, sample depth/3D, and encode JPEGs." alt="" coords="171,431,302,457"/>
+<area shape="rect" id="node11" href="$group__cabi__registry.html" title="Cache&#45;dir override, engine/inference registries, and camera&#45;info fetch." alt="" coords="163,481,310,521"/>
+</map>

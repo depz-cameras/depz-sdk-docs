@@ -1,0 +1,17 @@
+<map id="include/depz/core/inference/neural_architectures.h" name="include/depz/core/inference/neural_architectures.h">
+<area shape="rect" id="node1" title="Per&#45;network preprocess/postprocess recipes for the SDK&#39;s depth models." alt="" coords="634,5,835,47"/>
+<area shape="rect" id="node2" href="$ineural__inference_8h.html" title="Architecture&#45;agnostic orchestration interface for neural depth networks." alt="" coords="477,95,627,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="105,452,180,479"/>
+<area shape="rect" id="node8" title=" " alt="" coords="540,452,599,479"/>
+<area shape="rect" id="node15" title=" " alt="" coords="929,102,1063,129"/>
+<area shape="rect" id="node3" href="$icontrol__owner_8h.html" title=" " alt="" coords="231,184,393,225"/>
+<area shape="rect" id="node9" title=" " alt="" coords="45,370,105,397"/>
+<area shape="rect" id="node10" title=" " alt="" coords="418,370,481,397"/>
+<area shape="rect" id="node11" href="$iinference__engine_8h.html" title="Backend&#45;agnostic ML inference engine interface (Adapter pattern)." alt="" coords="469,273,678,315"/>
+<area shape="rect" id="node13" title=" " alt="" coords="615,191,753,218"/>
+<area shape="rect" id="node14" title=" " alt="" coords="777,191,855,218"/>
+<area shape="rect" id="node4" href="$param__spec_8h.html" title=" " alt="" coords="162,281,342,307"/>
+<area shape="rect" id="node5" href="$iparameter__store_8h.html" title="Type&#45;erased key/value parameter store interface." alt="" coords="181,363,342,404"/>
+<area shape="rect" id="node6" title=" " alt="" coords="339,452,405,479"/>
+<area shape="rect" id="node12" title=" " alt="" coords="607,370,678,397"/>
+</map>

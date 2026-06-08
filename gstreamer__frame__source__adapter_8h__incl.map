@@ -1,0 +1,11 @@
+<map id="include/depz/core/sources/gstreamer_frame_source_adapter.h" name="include/depz/core/sources/gstreamer_frame_source_adapter.h">
+<area shape="rect" id="node1" title="Adapts the canonical IGStreamerCamera live backend to the FrameSource grab&#45;contract used at the head ..." alt="" coords="308,5,499,61"/>
+<area shape="rect" id="node2" href="$iframe__source_8h.html" title="Abstract interface for raw frame sources feeding the DepthPipeline." alt="" coords="109,109,295,151"/>
+<area shape="rect" id="node6" title=" " alt="" coords="303,199,362,225"/>
+<area shape="rect" id="node7" title=" " alt="" coords="370,117,437,143"/>
+<area shape="rect" id="node8" title=" " alt="" coords="461,117,538,143"/>
+<area shape="rect" id="node9" title=" " alt="" coords="563,117,625,143"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,199,76,225"/>
+<area shape="rect" id="node4" title=" " alt="" coords="101,199,167,225"/>
+<area shape="rect" id="node5" title=" " alt="" coords="192,199,279,225"/>
+</map>

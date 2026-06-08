@@ -1,0 +1,5 @@
+<map id="IDepthFilter" name="IDepthFilter">
+<area shape="rect" id="node1" title="Pure&#45;virtual interface for a single&#45;stage depth / disparity filter." alt="" coords="166,5,265,32"/>
+<area shape="rect" id="node2" href="$classAdaptiveTemporalFilterV2.html" title="Adaptive Exponential Moving Average (EMA) filter for depth map stabilisation." alt="" coords="5,80,196,107"/>
+<area shape="rect" id="node3" href="$classAdaptiveTemporalKalmanFilter.html" title="Per&#45;pixel adaptive Kalman filter for depth / disparity map stabilisation." alt="" coords="220,80,443,107"/>
+</map>

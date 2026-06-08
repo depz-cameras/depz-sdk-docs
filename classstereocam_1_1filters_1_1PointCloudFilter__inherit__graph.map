@@ -1,0 +1,8 @@
+<map id="stereocam::filters::PointCloudFilter" name="stereocam::filters::PointCloudFilter">
+<area shape="rect" id="node1" title="Marker base for filters that consume the organized 3&#45;D point cloud." alt="" coords="388,71,524,112"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1filters_1_1BoundingBoxFilterCpp.html" title="Drops cloud points outside an axis&#45;aligned 3D box (organized&#45;cloud stage)." alt="" coords="583,5,758,47"/>
+<area shape="rect" id="node5" href="$classstereocam_1_1filters_1_1RayTsdfFilterCpp.html" title="Per&#45;ray TSDF fusion on the organized cloud (organized&#45;cloud stage)." alt="" coords="601,71,740,112"/>
+<area shape="rect" id="node6" href="$classstereocam_1_1filters_1_1StatisticalOutlierFilterCpp.html" title="Removes statistical outlier points from the organized cloud (organized&#45;cloud stage)." alt="" coords="572,136,769,177"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1filters_1_1IFilter.html" title="Stage&#45;agnostic filter base class." alt="" coords="204,71,340,112"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="5,71,156,112"/>
+</map>

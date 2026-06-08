@@ -1,0 +1,6 @@
+<map id="stereocam::filters::BoundingBoxFilterCpp" name="stereocam::filters::BoundingBoxFilterCpp">
+<area shape="rect" id="node1" title="Drops cloud points outside an axis&#45;aligned 3D box (organized&#45;cloud stage)." alt="" coords="5,273,180,315"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1filters_1_1PointCloudFilter.html" title="Marker base for filters that consume the organized 3&#45;D point cloud." alt="" coords="25,184,161,225"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1filters_1_1IFilter.html" title="Stage&#45;agnostic filter base class." alt="" coords="25,95,161,136"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="17,5,168,47"/>
+</map>

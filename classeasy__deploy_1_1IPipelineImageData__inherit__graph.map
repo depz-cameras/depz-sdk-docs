@@ -1,0 +1,4 @@
+<map id="easy_deploy::IPipelineImageData" name="easy_deploy::IPipelineImageData">
+<area shape="rect" id="node1" title="A abstract class of image data." alt="" coords="5,5,244,32"/>
+<area shape="rect" id="node2" href="$classeasy__deploy_1_1PipelineCvImageWrapper.html" title="A simple wrapper of cv::Mat." alt="" coords="14,80,235,121"/>
+</map>

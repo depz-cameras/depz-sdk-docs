@@ -1,0 +1,5 @@
+<map id="stereocam::pipeline::CanvasSetup" name="stereocam::pipeline::CanvasSetup">
+<area shape="rect" id="node1" title="All calibration data the worker loop needs for one canvas resolution." alt="" coords="99,109,250,151"/>
+<area shape="rect" id="node2" href="$structstereocam_1_1inference_1_1CanvasLayoutView.html" title="Per&#45;frame letter/pillar&#45;box layout of the valid image inside the canvas." alt="" coords="5,5,165,47"/>
+<area shape="rect" id="node3" href="$structstereocam_1_1pipeline_1_1CalibrationScalars.html" title="Calibration scalars consumed by the disparity→depth→cloud chain." alt="" coords="190,5,341,47"/>
+</map>

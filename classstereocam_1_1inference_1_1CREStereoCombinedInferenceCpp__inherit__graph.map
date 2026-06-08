@@ -1,0 +1,6 @@
+<map id="stereocam::inference::CREStereoCombinedInferenceCpp" name="stereocam::inference::CREStereoCombinedInferenceCpp">
+<area shape="rect" id="node1" title="CREStereo combined stereo with 4 inputs (full + half&#45;resolution pairs)." alt="" coords="5,273,256,315"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1inference_1_1NeuralInferenceBase.html" title="Shared partial implementation of DepthInferenceBase." alt="" coords="47,184,214,225"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1inference_1_1DepthInferenceBase.html" title="Pipeline&#45;facing abstract base for a neural depth network." alt="" coords="49,95,212,136"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="55,5,206,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="stereocam::filters::DepthFilter" name="stereocam::filters::DepthFilter">
+<area shape="rect" id="node1" title="Marker base for filters that consume the metric depth map." alt="" coords="388,71,524,112"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1filters_1_1EdgeFilterCpp.html" title="Drops pixels at depth discontinuities — boundary skirts and flyers (depth stage)." alt="" coords="593,5,729,47"/>
+<area shape="rect" id="node5" href="$classstereocam_1_1filters_1_1TemporalEmaFilterCpp.html" title="Smooths the depth map by per&#45;pixel EMA over consecutive frames (depth stage)." alt="" coords="572,71,749,112"/>
+<area shape="rect" id="node6" href="$classstereocam_1_1filters_1_1ZClipFilterCpp.html" title="Zeros depth pixels outside the [_min, _max] metre range (depth stage)." alt="" coords="593,136,729,177"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1filters_1_1IFilter.html" title="Stage&#45;agnostic filter base class." alt="" coords="204,71,340,112"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="5,71,156,112"/>
+</map>

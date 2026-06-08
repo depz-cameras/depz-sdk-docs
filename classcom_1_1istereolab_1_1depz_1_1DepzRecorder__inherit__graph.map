@@ -1,0 +1,4 @@
+<map id="com.istereolab.depz.DepzRecorder" name="com.istereolab.depz.DepzRecorder">
+<area shape="rect" id="node1" title="Mux raw still&#45;encoded frames (the camera&#39;s MJPG payload from DepzSource#grab) into a Matroska." alt="" coords="5,80,196,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="43,5,159,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="stereocam::inference::DepthAnythingV2SmallInferenceCpp" name="stereocam::inference::DepthAnythingV2SmallInferenceCpp">
+<area shape="rect" id="node1" title="Mono relative&#45;depth network with a user&#45;tunable affine post&#45;scale." alt="" coords="5,273,272,315"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1inference_1_1NeuralInferenceBase.html" title="Shared partial implementation of DepthInferenceBase." alt="" coords="55,184,222,225"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1inference_1_1DepthInferenceBase.html" title="Pipeline&#45;facing abstract base for a neural depth network." alt="" coords="57,95,220,136"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="63,5,214,47"/>
+</map>

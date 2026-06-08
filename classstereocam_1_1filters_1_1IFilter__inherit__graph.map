@@ -1,0 +1,14 @@
+<map id="stereocam::filters::IFilter" name="stereocam::filters::IFilter">
+<area shape="rect" id="node1" title="Stage&#45;agnostic filter base class." alt="" coords="204,201,340,243"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1filters_1_1DepthFilter.html" title="Marker base for filters that consume the metric depth map." alt="" coords="388,104,524,145"/>
+<area shape="rect" id="node7" href="$classstereocam_1_1filters_1_1DisparityFilter.html" title="Marker base for filters that consume the raw disparity map." alt="" coords="388,201,524,243"/>
+<area shape="rect" id="node9" href="$classstereocam_1_1filters_1_1PointCloudFilter.html" title="Marker base for filters that consume the organized 3&#45;D point cloud." alt="" coords="388,299,524,340"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="5,201,156,243"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1filters_1_1EdgeFilterCpp.html" title="Drops pixels at depth discontinuities — boundary skirts and flyers (depth stage)." alt="" coords="603,5,739,47"/>
+<area shape="rect" id="node5" href="$classstereocam_1_1filters_1_1TemporalEmaFilterCpp.html" title="Smooths the depth map by per&#45;pixel EMA over consecutive frames (depth stage)." alt="" coords="582,71,759,112"/>
+<area shape="rect" id="node6" href="$classstereocam_1_1filters_1_1ZClipFilterCpp.html" title="Zeros depth pixels outside the [_min, _max] metre range (depth stage)." alt="" coords="603,136,739,177"/>
+<area shape="rect" id="node8" href="$classstereocam_1_1filters_1_1SpeckleFilterCpp.html" title="Removes small speckle islands from a raw disparity map (disparity stage)." alt="" coords="601,201,740,243"/>
+<area shape="rect" id="node10" href="$classstereocam_1_1filters_1_1BoundingBoxFilterCpp.html" title="Drops cloud points outside an axis&#45;aligned 3D box (organized&#45;cloud stage)." alt="" coords="583,267,758,308"/>
+<area shape="rect" id="node11" href="$classstereocam_1_1filters_1_1RayTsdfFilterCpp.html" title="Per&#45;ray TSDF fusion on the organized cloud (organized&#45;cloud stage)." alt="" coords="601,332,740,373"/>
+<area shape="rect" id="node12" href="$classstereocam_1_1filters_1_1StatisticalOutlierFilterCpp.html" title="Removes statistical outlier points from the organized cloud (organized&#45;cloud stage)." alt="" coords="572,397,769,439"/>
+</map>

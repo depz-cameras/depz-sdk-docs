@@ -1,0 +1,9 @@
+<map id="depz_camera_sdk.inference.native_runtime.NativeMonoInferenceRuntime" name="depz_camera_sdk.inference.native_runtime.NativeMonoInferenceRuntime">
+<area shape="rect" id="node1" title=" " alt="" coords="1153,39,1432,80"/>
+<area shape="rect" id="node2" href="$classdepz__camera__sdk_1_1inference_1_1native__runtime_1_1__NativeNeuralRuntimeBase.html" title=" " alt="" coords="841,5,1105,47"/>
+<area shape="rect" id="node3" href="$classdepz__camera__sdk_1_1inference_1_1base_1_1DepthInferenceBase.html" title=" " alt="" coords="260,39,503,80"/>
+<area shape="rect" id="node7" href="$classdepz__camera__sdk_1_1inference_1_1base_1_1NeuralInferenceBase.html" title=" " alt="" coords="551,68,793,109"/>
+<area shape="rect" id="node4" title=" " alt="" coords="84,17,133,43"/>
+<area shape="rect" id="node5" href="$classdepz__camera__sdk_1_1__controls_1_1ControlOwner.html" title=" " alt="" coords="5,68,212,109"/>
+<area shape="rect" id="node6" href="$classdepz__camera__sdk_1_1inference_1_1base_1_1NeuralMonoInferenceBase.html" title=" " alt="" coords="852,71,1095,112"/>
+</map>

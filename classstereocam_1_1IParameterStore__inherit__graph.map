@@ -1,0 +1,6 @@
+<map id="stereocam::IParameterStore" name="stereocam::IParameterStore">
+<area shape="rect" id="node1" title="Abstract string&#45;keyed store of heterogeneous parameter values." alt="" coords="130,5,334,32"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1IStereoCalibrationModel.html" title="Interface that represents stereo calibration data + rectification behavior." alt="" coords="5,80,221,121"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1StereoCalibrationParameterStore.html" title="IParameterStore view over a StereoCalibration." alt="" coords="246,80,458,121"/>
+<area shape="rect" id="node3" href="$classStereoCalibration.html" title="Stereo calibration: load from JSON, rectify images, expose matrices." alt="" coords="46,169,181,196"/>
+</map>

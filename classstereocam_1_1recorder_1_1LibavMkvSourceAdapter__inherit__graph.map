@@ -1,0 +1,4 @@
+<map id="stereocam::recorder::LibavMkvSourceAdapter" name="stereocam::recorder::LibavMkvSourceAdapter">
+<area shape="rect" id="node1" title="libavformat&#45;backed IMkvSource: random&#45;access MJPG replay with pre&#45;scanned metadata." alt="" coords="5,95,193,136"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1recorder_1_1IMkvSource.html" title="Demuxes a recorded MJPG stream plus its metadata streams and attachments back out of a Matroska conta..." alt="" coords="23,5,176,47"/>
+</map>

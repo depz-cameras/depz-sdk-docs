@@ -1,0 +1,5 @@
+<map id="include/depz/core/pipeline/idepth_calibration.h" name="include/depz/core/pipeline/idepth_calibration.h">
+<area shape="rect" id="node1" title="Calibration interface the DepthPipeline worker loop depends on." alt="" coords="126,5,318,47"/>
+<area shape="rect" id="node2" href="$opencv__depth__calibration_8h.html" title="IDepthCalibration for the pinhole stereo model, backed by StereoCalibration." alt="" coords="5,95,215,136"/>
+<area shape="rect" id="node3" href="$depth__pipeline_8h.html" title=" " alt="" coords="239,95,431,136"/>
+</map>

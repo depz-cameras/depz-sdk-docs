@@ -1,0 +1,6 @@
+<map id="stereocam::filters::TemporalEmaFilterCpp" name="stereocam::filters::TemporalEmaFilterCpp">
+<area shape="rect" id="node1" title="Smooths the depth map by per&#45;pixel EMA over consecutive frames (depth stage)." alt="" coords="5,273,183,315"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1filters_1_1DepthFilter.html" title="Marker base for filters that consume the metric depth map." alt="" coords="26,184,162,225"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1filters_1_1IFilter.html" title="Stage&#45;agnostic filter base class." alt="" coords="26,95,162,136"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="19,5,169,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="stereocam::TensorRTStereoInference" name="stereocam::TensorRTStereoInference">
+<area shape="rect" id="node1" title="TensorRT stereo inference (IStereoInference)." alt="" coords="9,80,208,121"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1IStereoInference.html" title="Abstract interface for stereo disparity inference backends." alt="" coords="5,5,212,32"/>
+</map>

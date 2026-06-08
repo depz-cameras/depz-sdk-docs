@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,177,121,203"/>
+<area shape="rect" id="node2" href="$classcom_1_1istereolab_1_1depz_1_1DepzCalibration.html" title="Stereo calibration loaded from JSON, with read&#45;only identity scalars." alt="" coords="169,5,360,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1istereolab_1_1depz_1_1DepzFrame.html" title="One pipeline output packet." alt="" coords="169,71,360,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1istereolab_1_1depz_1_1DepzInference.html" title="A standalone neural inference — the small &quot;two images → disparity map&quot; primitive, with no camera,..." alt="" coords="169,136,360,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1istereolab_1_1depz_1_1DepzPipeline.html" title="High&#45;level wrapper over the C&#45;ABI." alt="" coords="169,201,360,243"/>
+<area shape="rect" id="node6" href="$classcom_1_1istereolab_1_1depz_1_1DepzRecorder.html" title="Mux raw still&#45;encoded frames (the camera&#39;s MJPG payload from DepzSource#grab) into a Matroska." alt="" coords="169,267,360,308"/>
+<area shape="rect" id="node7" href="$classcom_1_1istereolab_1_1depz_1_1DepzSource.html" title="Direct camera grab — pulls raw encoded frames straight from a source without a pipeline (no calibrati..." alt="" coords="169,332,360,373"/>
+</map>

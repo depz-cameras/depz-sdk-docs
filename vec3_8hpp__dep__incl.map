@@ -1,0 +1,7 @@
+<map id="include/depz/math/vec3.hpp" name="include/depz/math/vec3.hpp">
+<area shape="rect" id="node1" title="3&#45;D single&#45;precision floating&#45;point vector." alt="" coords="34,5,239,32"/>
+<area shape="rect" id="node2" href="$depz_8h.html" title="Single umbrella header that pulls in the whole iStereoLab public API." alt="" coords="40,319,190,345"/>
+<area shape="rect" id="node3" href="$mat4_8hpp.html" title="4×4 single&#45;precision floating&#45;point matrix." alt="" coords="32,80,240,107"/>
+<area shape="rect" id="node4" href="$types_8hpp.html" title="Core SDK&#45;wide data structures and enumerations." alt="" coords="146,155,318,181"/>
+<area shape="rect" id="node5" href="$depth__utils_8h.html" title="Disparity&#45;to&#45;depth and point&#45;cloud conversion utilities." alt="" coords="178,229,327,271"/>
+</map>

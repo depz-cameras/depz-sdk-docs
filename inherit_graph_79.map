@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classstereocam_1_1IStereoInference.html" title="Abstract interface for stereo disparity inference backends." alt="" coords="5,78,212,105"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1ONNXRuntimeStereoInference.html" title="ONNX Runtime stereo inference (IStereoInference)." alt="" coords="260,5,495,47"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1OpenVINOStereoInference.html" title="OpenVINO stereo inference (IStereoInference)." alt="" coords="273,71,481,112"/>
+<area shape="rect" id="node4" href="$classstereocam_1_1TensorRTStereoInference.html" title="TensorRT stereo inference (IStereoInference)." alt="" coords="278,136,477,177"/>
+</map>

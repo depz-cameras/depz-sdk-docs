@@ -1,0 +1,5 @@
+var namespacedepz__camera__sdk_1_1inference_1_1native__classical =
+[
+    [ "NativeClassicalInferenceBase", "classdepz__camera__sdk_1_1inference_1_1native__classical_1_1NativeClassicalInferenceBase.html", "classdepz__camera__sdk_1_1inference_1_1native__classical_1_1NativeClassicalInferenceBase" ],
+    [ "NativeRectifyOnlyInferenceBase", "classdepz__camera__sdk_1_1inference_1_1native__classical_1_1NativeRectifyOnlyInferenceBase.html", "classdepz__camera__sdk_1_1inference_1_1native__classical_1_1NativeRectifyOnlyInferenceBase" ]
+];

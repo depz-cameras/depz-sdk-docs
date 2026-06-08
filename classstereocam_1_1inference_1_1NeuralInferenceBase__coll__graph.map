@@ -1,0 +1,5 @@
+<map id="stereocam::inference::NeuralInferenceBase" name="stereocam::inference::NeuralInferenceBase">
+<area shape="rect" id="node1" title="Shared partial implementation of DepthInferenceBase." alt="" coords="5,184,172,225"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1inference_1_1DepthInferenceBase.html" title="Pipeline&#45;facing abstract base for a neural depth network." alt="" coords="7,95,170,136"/>
+<area shape="rect" id="node3" href="$classstereocam_1_1controls_1_1IControlOwner.html" title="Language&#45;neutral base class for objects with self&#45;describing runtime parameters." alt="" coords="13,5,164,47"/>
+</map>

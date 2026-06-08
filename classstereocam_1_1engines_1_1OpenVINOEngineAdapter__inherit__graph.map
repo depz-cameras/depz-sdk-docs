@@ -1,0 +1,4 @@
+<map id="stereocam::engines::OpenVINOEngineAdapter" name="stereocam::engines::OpenVINOEngineAdapter">
+<area shape="rect" id="node1" title="OpenVINO&#45;backed InferenceEngine with an InferRequest pool." alt="" coords="5,95,197,136"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1engines_1_1InferenceEngine.html" title="Abstract single&#45;shot inference engine over a loaded model." alt="" coords="26,5,177,47"/>
+</map>

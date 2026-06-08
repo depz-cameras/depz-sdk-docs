@@ -1,0 +1,4 @@
+<map id="stereocam::platform::ICameraIdentityProvider" name="stereocam::platform::ICameraIdentityProvider">
+<area shape="rect" id="node1" title="Enumerates DEPZ cameras attached to the host." alt="" coords="10,5,199,47"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1platform_1_1LinuxV4L2IdentityAdapter.html" title=" " alt="" coords="5,95,204,136"/>
+</map>

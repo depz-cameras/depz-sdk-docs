@@ -1,0 +1,8 @@
+<map id="include/depz/core/sources/iframe_source.h" name="include/depz/core/sources/iframe_source.h">
+<area shape="rect" id="node1" title="Abstract interface for raw frame sources feeding the DepthPipeline." alt="" coords="290,5,481,47"/>
+<area shape="rect" id="node2" href="$depth__pipeline_8h.html" title=" " alt="" coords="5,102,197,143"/>
+<area shape="rect" id="node3" href="$imkv__source_8h.html" title="Abstract Matroska/MKV reader — the replay sibling of IMkvRecorder." alt="" coords="221,102,416,143"/>
+<area shape="rect" id="node5" href="$mkv__frame__source_8h.html" title="A recorded .mkv presented as a seekable FrameSource for replay." alt="" coords="358,199,549,240"/>
+<area shape="rect" id="node6" href="$gstreamer__frame__source__adapter_8h.html" title="Adapts the canonical IGStreamerCamera live backend to the FrameSource grab&#45;contract used at the head ..." alt="" coords="491,95,682,151"/>
+<area shape="rect" id="node4" href="$libav__mkv__source__adapter_8h.html" title="libavformat demuxer behind the IMkvSource interface — the seekable replay head of the worker pipeline..." alt="" coords="122,199,334,240"/>
+</map>

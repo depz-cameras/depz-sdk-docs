@@ -1,0 +1,9 @@
+<map id="include/depz/core/recorder/imkv_source.h" name="include/depz/core/recorder/imkv_source.h">
+<area shape="rect" id="node1" title="Abstract Matroska/MKV reader — the replay sibling of IMkvRecorder." alt="" coords="161,5,356,47"/>
+<area shape="rect" id="node2" href="$iframe__source_8h.html" title="Abstract interface for raw frame sources feeding the DepthPipeline." alt="" coords="100,95,287,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,184,72,211"/>
+<area shape="rect" id="node6" title=" " alt="" coords="303,184,361,211"/>
+<area shape="rect" id="node7" title=" " alt="" coords="362,102,425,129"/>
+<area shape="rect" id="node3" title=" " alt="" coords="97,184,167,211"/>
+<area shape="rect" id="node5" title=" " alt="" coords="191,184,278,211"/>
+</map>

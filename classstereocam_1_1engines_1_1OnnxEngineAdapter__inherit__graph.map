@@ -1,0 +1,4 @@
+<map id="stereocam::engines::OnnxEngineAdapter" name="stereocam::engines::OnnxEngineAdapter">
+<area shape="rect" id="node1" title="ONNX Runtime&#45;backed InferenceEngine." alt="" coords="5,95,164,136"/>
+<area shape="rect" id="node2" href="$classstereocam_1_1engines_1_1InferenceEngine.html" title="Abstract single&#45;shot inference engine over a loaded model." alt="" coords="9,5,160,47"/>
+</map>

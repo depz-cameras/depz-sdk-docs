@@ -1,0 +1,10 @@
+<map id="include/depz/stereo/istereo_calibration_model.h" name="include/depz/stereo/istereo_calibration_model.h">
+<area shape="rect" id="node1" title=" " alt="" coords="160,5,309,61"/>
+<area shape="rect" id="node2" href="$stereo__pipeline_8hpp.html" title=" " alt="" coords="5,109,197,151"/>
+<area shape="rect" id="node3" href="$depz_8h.html" title="Single umbrella header that pulls in the whole iStereoLab public API." alt="" coords="210,303,361,329"/>
+<area shape="rect" id="node4" href="$stereocalibration_8h.html" title="Stereo camera calibration: load, validate, rectify." alt="" coords="469,109,619,151"/>
+<area shape="rect" id="node5" href="$opencv__basic_8h.html" title="Concrete Calibration for the OpenCV5 / OpenCV8 pinhole lens model." alt="" coords="323,206,533,247"/>
+<area shape="rect" id="node6" href="$opencv__depth__calibration_8h.html" title="IDepthCalibration for the pinhole stereo model, backed by StereoCalibration." alt="" coords="557,206,766,247"/>
+<area shape="rect" id="node7" href="$calibration__params_8h.html" title=" " alt="" coords="791,206,953,247"/>
+<area shape="rect" id="node8" href="$camera__calibration__web__loader_8h.html" title="Download stereo calibration JSON by camera serial and parse it into StereoCalibration." alt="" coords="978,199,1129,255"/>
+</map>

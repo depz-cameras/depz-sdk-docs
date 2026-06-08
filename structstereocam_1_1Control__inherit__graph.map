@@ -1,0 +1,4 @@
+<map id="stereocam::Control" name="stereocam::Control">
+<area shape="rect" id="node1" title="Pure&#45;C++ descriptor of one runtime&#45;tunable parameter." alt="" coords="9,5,156,32"/>
+<area shape="rect" id="node2" href="$structstereocam_1_1cameras_1_1CameraControl.html" title="Camera&#45;property control descriptor (V4L2 / DirectShow control)." alt="" coords="5,80,160,121"/>
+</map>

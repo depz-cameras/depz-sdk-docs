@@ -1,0 +1,4 @@
+<map id="stereocam::engines::AsyncResult" name="stereocam::engines::AsyncResult">
+<area shape="rect" id="node1" title="Result delivered to an AsyncCallback when async inference completes." alt="" coords="5,109,156,151"/>
+<area shape="rect" id="node2" href="$structstereocam_1_1engines_1_1OwnedBlob.html" title="Heap&#45;allocated output blob whose ownership transfers to the caller." alt="" coords="5,5,156,47"/>
+</map>
